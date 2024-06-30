@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BL4ZE6264
-- 👀 I’m interested in Game dec
+- 👀 I’m interested in Game development 
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me ...
